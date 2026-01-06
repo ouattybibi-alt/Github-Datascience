@@ -1,1 +1,1 @@
-Afin de pouvoir axécuter le script Python il vous faut exécuter chacune des différentes chunk ou exécuter l'ensemble de façon simultanée. Vu que les chunks sont dans le bon ordre
+Afin de pouvoir axécuter le script Python il vous faut dans un premier temps sélectionner le fichier 'Projet Data Science.ipynb', dérouler la flèche juste à droite du crayon sélectionner l'option github.dev. exécuter chacune des différentes chunk ou exécuter l'ensemble de façon simultanée. Vu que les chunks sont dans le bon ordre
