@@ -1,6 +1,7 @@
 -Afin de pouvoir visualiser le script Python ainsi que les sorties il vous faut soit appuyer sur la touche . de votre clavier sur le dépôt pour ouvrir un environnement de développement complet dans son navigateur et choisir le fichier 'Projet Data Science.ipynb', ou dans un premier temps sélectionner le fichier 'Projet Data Science.ipynb' dans le dépôt, dérouler la flèche juste à droite du crayon, sélectionner l'option github.dev;
 -
--Le notebook 'Projet Data Science.ipynb' présente le déroulé de la méthode ainsi que tous les résultats et les explications présentés au sein du rapport  
+-Le notebook 'Projet Data Science.ipynb' présente le déroulé de la méthode ainsi que tous les résultats et les explications présentés au sein du rapport;
+-
 -Le notebook 'Analyse critiques et limites projet data science.ipynb' présente les différentes limites de la méthode, observées sur notre jeu de données;
 -Le fichier 'README.md' explique le fonctionnement global du dépôt Github
 -Le fichier descriptif_variables, présente les différentes variables à l'intérieur de notre dattaset initial;
