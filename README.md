@@ -3,9 +3,13 @@
 -Le notebook 'Projet Data Science.ipynb' présente le déroulé de la méthode ainsi que tous les résultats et les explications présentés au sein du rapport;
 -
 -Le notebook 'Analyse critiques et limites projet data science.ipynb' présente les différentes limites de la méthode, observées sur notre jeu de données;
+-
 -Le fichier 'README.md' explique le fonctionnement global du dépôt Github
+-
 -Le fichier descriptif_variables, présente les différentes variables à l'intérieur de notre dattaset initial;
+-
 -Le fichier loan_applications.csv correspond au dataset non modifié 
+-
 -Le fichier loan_applications_modified.csv correspond au dataset après l'étape data preprocessing sur la base de donnée ;
 -
 -Prière de ne pas exécuter de code car toutes les sorties sont déjà disponibles !
