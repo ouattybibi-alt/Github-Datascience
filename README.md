@@ -10,7 +10,7 @@
 -
 -Le fichier loan_applications.csv correspond au dataset non modifié 
 -
--Le fichier loan_applications_modified.csv correspond au dataset après l'étape data preprocessing sur la base de donnée ;
+-Le fichier loan_applications_modified.csv correspond au dataset après l'étape data preprocessing sur la base de données ;
 -
 -Prière de ne pas exécuter de code car toutes les sorties sont déjà disponibles !
 -
