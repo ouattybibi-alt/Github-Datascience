@@ -6,7 +6,7 @@
 -
 -Le fichier 'README.md' explique le fonctionnement global du dépôt Github
 -
--Le fichier descriptif_variables, présente les différentes variables à l'intérieur de notre dattaset initial;
+-Le fichier descriptif_variables, présente les différentes variables à l'intérieur de notre dataset initial;
 -
 -Le fichier loan_applications.csv correspond au dataset non modifié 
 -
