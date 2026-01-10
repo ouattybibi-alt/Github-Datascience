@@ -2,7 +2,7 @@
 -
 -Le notebook 'Projet Data Science.ipynb' présente le déroulé de la méthode ainsi que tous les résultats et les explications présentés au sein du rapport(cf sections 1 à 3 du rapport);
 -
--Le notebook 'Analyse critiques et limites projet data science.ipynb' présente les différentes limites de la méthode, observées sur notre jeu de données (cf section 4 du rapport);
+-Le notebook 'Analyse critiques et limites projet data science.ipynb' présente une analyse des différentes limites de la méthode, observées sur notre jeu de données (cf section 4 du rapport);
 -
 -Le fichier 'README.md' explique le fonctionnement global du dépôt Github
 -
